@@ -33,3 +33,14 @@ padding: 0;
   table tbody tr:nth-child(odd){
     background-color: #eee;
 }
+
+  .footer {
+
+                    left: 10px;
+                    bottom: 5px;
+                    right: 10px; 
+                    width: 95%;
+                    background-color: rgb(255, 211, 66);
+                    color: rgb(11, 48, 255);
+                    text-align: center;
+                    }
